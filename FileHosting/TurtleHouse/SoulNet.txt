@@ -1,0 +1,1 @@
+SoulNet is a GitHub hosted network for internet features in my projects. All it does is download files to make the included clients work, mostly for no other reason.

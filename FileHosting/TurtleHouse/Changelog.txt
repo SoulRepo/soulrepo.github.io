@@ -1,0 +1,4 @@
+0.1
+- Started numbering and changelog
+- Connected to network?
+- Sorta but not really working

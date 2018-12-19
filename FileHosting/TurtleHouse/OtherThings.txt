@@ -1,0 +1,4 @@
+What I am working on:
+
+BatchOS, a "game" that's unsecured, meant to be a CTF(?)
+SoulNet, a network containing features for my projects.
