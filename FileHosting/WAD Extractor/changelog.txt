@@ -1,0 +1,4 @@
+-------------
+Version 1.0.0:
+- Project created
+- Added update checking by CDN
